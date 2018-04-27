@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .ellipse {
 }
 ._图片 {
@@ -54,4 +56,6 @@
 }
 ._文本段落 {
   text-align:left;
+}
+.table_cell {
 }
